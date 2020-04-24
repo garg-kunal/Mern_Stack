@@ -15,7 +15,7 @@
     "ejs": "^2.6.1",
     "express": "^4.16.4",
     "graphql-yoga": "^1.18.3",
-    "mongoose": "^5.5.1",
+    "mongoose": "^5.7.5",
     "node-router": "^0.1.6"
   }
 }
